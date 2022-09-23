@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @dhruvmore05
 - 👀 I’m interested in Cyber Security
-- 🌱 I’m currently learning nothing
-- 💞️ I’m looking to collaborate on aything
+- 🌱 I’m currently learning programing languages
+- 💞️ I’m looking to collaborate by learing and working together on a project
+      releated to penitration testing.
 - 📫
 
 <!---
